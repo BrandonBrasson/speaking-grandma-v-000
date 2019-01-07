@@ -16,8 +16,6 @@ def speak_to_grandma(n)
   if n == n.upcase
     "NO, NOT SINCE 1938!"
   else
-    "HUH?! SPEAK UP, SONNY!"
-  else
     "I LOVE YOU TOO PUMPKIN!"
   end
 end
