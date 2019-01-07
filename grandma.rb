@@ -9,11 +9,11 @@
 
 # NO, NOT SINCE 1938!
 
-# However if you say 'I LOVE YOU GRANDMA!', she should respond with
+# if phrase == "I LOVE YOU GRANDMA!"return "I LOVE YOU TOO PUMPKIN!However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(n)
-  if  n==n.upcase
+  if "I LOVE YOU TOO PUMPKIN!"
     "NO, NOT SINCE 1938!"
   else
     "HUH?! SPEAK UP, SONNY!"
