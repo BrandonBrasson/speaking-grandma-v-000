@@ -21,7 +21,7 @@ def speak_to_grandma(n)
 end
 
 def speak_to_grandma(n)
-if 
+if
     "I LOVE YOU TOO PUMPKIN!"
   end
 end
