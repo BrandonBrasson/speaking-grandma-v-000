@@ -18,7 +18,7 @@ def speak_to_grandma(n)
   else
     "HUH?! SPEAK UP, SONNY!"
   elsif
-    "I LOVE YOU TOO PUMPKIN!" 
+    "I LOVE YOU TOO PUMPKIN!"
   end
 end
 end
