@@ -23,7 +23,7 @@ else"I LOVE YOU GRANDMA! #{n}"
   end
 
   def speak_to_grandma(n)
-  if "WHAT DID YOU EAT TODAY?#{n}"
+  if "WHAT DID YOU EAT TODAY?"
       return  "NO, NOT SINCE 1938!"
     end
     end
