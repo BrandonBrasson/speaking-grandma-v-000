@@ -19,5 +19,3 @@ def speak_to_grandma(n)
     "HUH?! SPEAK UP, SONNY!"
   end
 end
-
-
