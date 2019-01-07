@@ -17,7 +17,8 @@ def speak_to_grandma(n)
     return "I LOVE YOU GRANDMA!"
  elsif "WHAT DID YOU EAT TODAY?#{n}"
     return  "NO, NOT SINCE 1938!"
-else
+else"I LOVE YOU GRANDMA! #{n}"
+   return "I LOVE YOU TOO PUMPKIN!"
   end
   end
 
