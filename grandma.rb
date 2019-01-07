@@ -41,8 +41,4 @@ end
    end
 
 
-   def speak_to_grandma(n)
- if "Hi Nana, how are you?#{n}"
-    return "I LOVE YOU GRANDMA!"
-  end
-  end
+  \
