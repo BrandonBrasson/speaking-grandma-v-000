@@ -20,9 +20,4 @@ def speak_to_grandma(n)
   end
 end
 
-def speak_to_grandma(n)
-elsif n == n.upcase
-    "I LOVE YOU TOO PUMPKIN!"
-  end
-end
-end
+
