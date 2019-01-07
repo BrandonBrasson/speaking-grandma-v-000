@@ -14,8 +14,8 @@
 
 def speak_to_grandma(n)
   if  statement.upcase
-   "NO, NOT SINCE 1938!"
- elsif HUH?! SPEAK UP, SONNY
+   return "NO, NOT SINCE 1938!"
+ elsif statement.upcase
    return n
 else statement.upcase
  return  n
