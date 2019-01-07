@@ -19,3 +19,12 @@ def speak_to_grandma(n)
     "HUH?! SPEAK UP, SONNY!"
   end
 end
+
+
+def speak_to_grandma(n)
+  if n == n.upcase
+    "I LOVE YOU TOO PUMPKIN!"
+  else
+    "I LOVE YOU TOO PUMPKIN!"
+  end
+en
