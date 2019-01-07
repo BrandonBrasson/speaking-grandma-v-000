@@ -34,9 +34,15 @@ end
     end
     end
 
+    def speak_to_grandma(n)
+   if "Hi Nana, how are you?#{n}"
+     return  "HUH?! SPEAK UP, SONNY!"
+   end
+   end
+
 
    def speak_to_grandma(n)
  if "Hi Nana, how are you?#{n}"
-    return  "HUH?! SPEAK UP, SONNY!"
+    return "I LOVE YOU GRANDMA!"
   end
   end
