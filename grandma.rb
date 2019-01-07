@@ -12,9 +12,21 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
+def speak_to_grandma(statement)
+  if  statement.upcase
+   "NO, NOT SINCE 1938"
+  else
+    statement
+  end
+end
+
 def speak_to_grandma(n)
- if "I LOVE YOU TOO PUMPKIN! "
-    return "I LOVE YOU GRANDMA!"
+  if  statement.upcase
+   "NO, NOT SINCE 1938!"
+ elsif HUH?! SPEAK UP, SONNY
+   return "HUH?! SPEAK UP, SONNY"
+else statement.upcase
+  HUH?! SPEAK UP, SONNY
   end
 end
     def speak_to_grandma(n)
@@ -40,11 +52,4 @@ end
    end
    end
 
-   def speak_to_grandma(n)
-     if statement.upcase
-      "NO, NOT SINCE 1938!"
-     else
-       n
-     end
-   end
- end
+   
