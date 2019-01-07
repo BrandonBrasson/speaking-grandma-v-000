@@ -23,5 +23,5 @@ end
 def speak_to_grandma(n)
   if n == n.upcase
     "I LOVE YOU TOO PUMPKIN!"
-  end 
+  end
 end
