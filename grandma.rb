@@ -17,14 +17,14 @@ def speak_to_grandma(n)
     return "I LOVE YOU GRANDMA!"
  elsif "WHAT DID YOU EAT TODAY?#{n}"
     return  "NO, NOT SINCE 1938!"
-else"I LOVE YOU GRANDMA! #{n}"
-   return "I LOVE YOU TOO PUMPKIN!"
+else 'WHAT?'
+    return  "NO, NOT SINCE 1938!"
   end
   end
 
   def speak_to_grandma(n)
-  if "WHAT DID YOU EAT TODAY?"
-      return  "NO, NOT SINCE 1938!"
+  if "I LOVE YOU TOO PUMPKIN! #{n}"
+     return "I LOVE YOU GRANDMA!"
     end
     end
 
