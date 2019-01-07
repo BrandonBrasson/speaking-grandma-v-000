@@ -13,12 +13,12 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(n)
- if "I LOVE YOU TOO PUMPKIN! #{n}"
+ if "I LOVE YOU TOO PUMPKIN! "
     return "I LOVE YOU GRANDMA!"
   end
 end
     def speak_to_grandma(n)
-  if "WHAT DID YOU EAT TODAY?#{n}"
+  if "WHAT DID YOU EAT TODAY?"
     return  "NO, NOT SINCE 1938!"
   end
 end
@@ -29,13 +29,13 @@ end
   end
 
   def speak_to_grandma(n)
-  if "I LOVE YOU TOO PUMPKIN! #{n}"
+  if "I LOVE YOU TOO PUMPKIN!"
      return "I LOVE YOU GRANDMA!"
     end
     end
 
     def speak_to_grandma(n)
-   if "Hi Nana, how are you?#{n}"
+   if "Hi Nana, how are you?"
      return  "HUH?! SPEAK UP, SONNY!"
    end
    end
