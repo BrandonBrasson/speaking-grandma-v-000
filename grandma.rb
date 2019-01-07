@@ -20,8 +20,8 @@ end
     def speak_to_grandma(n)
   if "WHAT DID YOU EAT TODAY?#{n}"
     return  "NO, NOT SINCE 1938!"
-  end 
-end 
+  end
+end
     def speak_to_grandma(n)
      if 'WHAT?'
     return  "NO, NOT SINCE 1938!"
