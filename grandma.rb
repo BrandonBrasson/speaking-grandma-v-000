@@ -16,7 +16,7 @@ def speak_to_grandma(n)
   if n == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
   elsif condition
-    
+
     "NO, NOT SINCE 1938!"
   elsif
     "HUH?! SPEAK UP, SONNY!"
