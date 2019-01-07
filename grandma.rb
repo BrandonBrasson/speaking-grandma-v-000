@@ -20,9 +20,7 @@ def speak_to_grandma(n)
     elsif n == n.downcase
       return "HUH?! SPEAK UP, SONNY!"
     elsif n == n.upcase
-      return "NO, NOT SINCE 1938!"  
+      return "NO, NOT SINCE 1938!"
     else
   		return "NO, NOT SINCE 1938!"
     end
-
-
