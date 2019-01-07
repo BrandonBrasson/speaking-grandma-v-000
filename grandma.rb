@@ -15,9 +15,9 @@
 def speak_to_grandma(n)
   if n == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
-  elsif 
+  elsif  n == n.downcase
     "NO, NOT SINCE 1938!"
-  elsif
+  elsif  n == n.downcase
     "HUH?! SPEAK UP, SONNY!"
   end
 end
