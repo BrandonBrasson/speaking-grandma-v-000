@@ -21,7 +21,7 @@ def speak_to_grandma(n)
 end
 
 def speak_to_grandma(n)
-elsif n == n.upcase
+elsif TRUE
     "I LOVE YOU TOO PUMPKIN!"
   end
 end
