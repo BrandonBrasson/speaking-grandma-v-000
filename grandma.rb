@@ -13,11 +13,11 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(n)
- if I LOVE YOU TOO PUMPKIN! >= I LOVE YOU GRANDMA!
+ if "I LOVE YOU TOO PUMPKIN! #{n}"
     return "I LOVE YOU GRANDMA!"
  elsif "WHAT DID YOU EAT TODAY?#{n}"
     return  "NO, NOT SINCE 1938"
-
+else
   end
   end
 
